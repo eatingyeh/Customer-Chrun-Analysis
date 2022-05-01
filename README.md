@@ -43,4 +43,4 @@ Algorithms
 - Cluster Analysis
 
 ## 5. Results
-Please view the code here [https://github.com/eatingyeh/Customer-Chrun-Analysis/blob/main/Customer%20Churn%20Analysis.ipynb].
+Please view the code [here](https://github.com/eatingyeh/Customer-Chrun-Analysis/blob/main/Customer%20Churn%20Analysis.ipynb).
